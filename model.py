@@ -1,7 +1,7 @@
 
 import numpy as np
 
-# SC850 BNC calibration values
+# calibration values
 BNC_ALPHA_TABLE = {
     32: 105.0,
     64: 147.0,
